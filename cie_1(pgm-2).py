@@ -1,0 +1,6 @@
+name=str(input("enter student name"))
+usn=str(input("enter student usn"))
+add=str(input("enter student address"))
+print(f"student name is:{name}")
+print(f"student usn is :{usn}")
+print(f"student address is :{add}")
